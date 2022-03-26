@@ -6,3 +6,4 @@ Görünmeyen veriler üzerinde 78%'lik bir test doğruluğu ile 10 farklı sın�
 Kullandığım Class’ler: ('aeroplane' 'automobile' 'bird' 'cat' 'deer' 'dog' 'frog' 'horse' 'ship' 'truck')
 
 
+ 
